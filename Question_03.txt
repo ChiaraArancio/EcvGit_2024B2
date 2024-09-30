@@ -1,2 +1,2 @@
 A quoi sert Git ?
--> 
+-> à versionner du code
